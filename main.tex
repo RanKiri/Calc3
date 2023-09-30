@@ -1,0 +1,39 @@
+\documentclass[12pt,a4paper]{book}
+
+% Load the preamble files
+\input{preamble/packages.tex}
+\input{preamble/settings.tex}
+
+% Load custom macros
+\input{macros/custom_macros.tex}
+
+\begin{document}
+
+% Front matter (Title page, dedication, table of contents, etc.)
+\frontmatter
+\title{Calculus: A Comprehensive Guide}
+\author{Your Name}
+\date{\today}
+\maketitle
+
+\tableofcontents
+
+% Main content
+\mainmatter
+
+\input{chapters/chapter1.tex}
+\input{chapters/chapter2.tex}
+% ... add more chapters as needed
+
+% Appendices, if any
+\appendix
+% \input{chapters/appendixA.tex}
+% \input{chapters/appendixB.tex}
+% ... add more appendices as needed
+
+% Back matter (Bibliography, index, etc.)
+\backmatter
+% \bibliographystyle{plain}
+% \bibliography{references}
+
+\end{document}
