@@ -1,2 +1,41 @@
-\setmainfont[Script=Latin]{YourEnglishFontNameHere}
-\newfontfamily\hebrewfont[Script=Hebrew]{YourHebrewFontNameHere}98
+\setdefaultlanguage{hebrew}
+\setotherlanguage{english}
+\newfontfamily\hebrewfont[Script=Hebrew]{IBM Plex Sans Hebrew}
+
+\definecolor{darkgray}{gray}{0.3} % Define a dark gray color. Adjust the value (0.3) as needed.
+
+% Chapter formatting
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries\filleft}
+  {\color{darkgray}\fontsize{110}{30}\selectfont\thechapter}
+  {30pt}
+  {\fontsize{50}{30}\selectfont}
+  
+\newcommand\sectioncolorbox[1]{%
+  \colorbox{black}{\parbox{\dimexpr\linewidth-2\fboxsep}{\thesection\quad#1}}%
+}
+
+\newcommand\subsectionformat[1]{%
+  \thesubsection\quad#1%
+}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{white}} % format
+  {} % label
+  {0em} % horizontal spacing
+  {\sectioncolorbox} % before-code
+  [\vspace{0.5em}] % after-code
+
+\titleformat{name=\section,numberless}
+  {\normalfont\Large\bfseries\color{white}} % format
+  {} % label
+  {0em} % horizontal spacing
+  {\sectioncolorbox} % before-code
+  [\vspace{0.5em}] % after-code
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{darkgray}} % format
+  {} % label
+  {0em} % horizontal spacing
+  {\subsectionformat} % before-code
+  [\titlerule] % after-code

@@ -1,0 +1,4 @@
+\selectlanguage *{hebrew}
+\contentsline {chapter}{\numberline {1}טופולוגיה}{1}{}%
+\contentsline {section}{\numberline {1.1}תזכורות מההרצאה}{1}{}%
+\contentsline {subsection}{\numberline {1.1.1}רציפות}{1}{}%
