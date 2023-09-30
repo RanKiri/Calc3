@@ -2,6 +2,17 @@
 \setotherlanguage{english}
 \newfontfamily\hebrewfont[Script=Hebrew]{IBM Plex Sans Hebrew}
 
+% Theorems, Lemmas, Claims
+\theoremstyle{plain}
+\newtheorem{theorem}{משפט}[section] % Numbering follows sections
+\newtheorem{lemma}[theorem]{למה}     % Shares numbering with theorem
+\newtheorem{claim}[theorem]{טענה}     % Shares numbering with theorem
+
+% Definitions, Examples
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{הגדרה} % Shares numbering with theorem
+\newtheorem{example}[theorem]{דוגמה}   
+
 \definecolor{darkgray}{gray}{0.3} % Define a dark gray color. Adjust the value (0.3) as needed.
 
 % Chapter formatting
@@ -39,3 +50,13 @@
   {0em} % horizontal spacing
   {\subsectionformat} % before-code
   [\titlerule] % after-code
+  
+\pagestyle{fancy}
+\fancyhf{} % Clear all headers and footers
+% Header
+\fancyhead[LE,RO]{\leftmark} % Chapter name on the outer side (Even pages on the left, Odd pages on the right)
+\fancyhead[RE,LO]{חשבון אינפיניטסימלי 3} % Book title on the inner side
+
+% Footer
+\fancyfoot[C]{\thepage} % Page number in the center
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}

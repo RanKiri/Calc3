@@ -1,0 +1,87 @@
+% Matrices
+\newcommand{\mat}[1]{\mathbb{M}_{#1}}
+
+
+% Functions
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+
+% Equation
+\NewDocumentCommand{\eqn}{o m}{
+    \begin{equation}
+    \IfNoValueTF{#1} % Check if the optional argument [L] is present
+        {} % If not, do nothing
+        {\label{eq:#1}} % If yes, add \label{eq:L}
+    #2 % This is for the mandatory argument X
+    \end{equation}
+}
+
+% Special Letters
+% Define the \dell macro
+\newcommand{\dell}{\partial}
+
+\ExplSyntaxOn
+% Define \cX commands for \mathcal
+\NewDocumentCommand{\definecalletters}{} {
+  \clist_map_inline:nn {A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z} {
+    \exp_args:Nc \NewDocumentCommand {c##1}{} {
+      \mathcal{##1}
+    }
+  }
+}
+
+% Define \bX commands for \mathbb
+\NewDocumentCommand{\definebbletters}{} {
+  \clist_map_inline:nn {A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z} {
+    \exp_args:Nc \NewDocumentCommand {b##1}{} {
+      \mathbb{##1}
+    }
+  }
+}
+% Define \bfX commands for \mathbf
+\NewDocumentCommand{\definebfletters}{} {
+  \clist_map_inline:nn {A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z} {
+    \exp_args:Nc \NewDocumentCommand {bf##1}{} {
+      \mathbf{##1}
+    }
+  }
+}
+
+\ExplSyntaxOff
+
+\definecalletters
+\definebbletters
+\definebfletters
+
+% Brackets
+\NewDocumentCommand{\qty}{d()d[]g}{%
+  \IfNoValueTF{#1}{%
+    \IfNoValueTF{#2}{%
+      \IfNoValueTF{#3}{%
+        % No argument provided
+        \,
+      }{%
+        % Case: \mycmd{...}
+        \left\{#3\right\}
+      }%
+    }{%
+      % Case: \mycmd[...]
+      \left[#2\right]
+    }%
+  }{%
+    % Case: \mycmd(...)
+    \left(#1\right)
+  }%
+}
+
+% Bracketed Matrix
+\newcommand{\mqty}[2][p]{%
+    \if#1p%
+        \begin{pmatrix} #2 \end{pmatrix}%
+    \else\if#1s%
+        \begin{bmatrix} #2 \end{bmatrix}%
+    \else\if#1c%
+        \begin{Bmatrix} #2 \end{Bmatrix}%
+    \else
+        \begin{pmatrix} #2 \end{pmatrix}%
+    \fi\fi\fi
+}

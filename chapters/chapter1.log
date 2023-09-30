@@ -1,0 +1,366 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9.24) (preloaded format=xelatex 2023.9.30)  30 SEP 2023 21:11
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**./chapter1.tex
+(chapter1.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+! Undefined control sequence.
+l.1 \chapter
+            {טופולוגיה}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{ט
+              ופולוגיה}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ט in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no פ in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ג in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ה in font nullfont!
+! Undefined control sequence.
+l.2 \section
+            {תזכורות מההרצאה}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ת in font nullfont!
+Missing character: There is no ז in font nullfont!
+Missing character: There is no כ in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no צ in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ה in font nullfont!
+! Undefined control sequence.
+l.3 \subsection
+               {מבנים על המרחב האוקלידי}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no נ in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ם in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ק in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ד in font nullfont!
+Missing character: There is no י in font nullfont!
+
+! LaTeX Error: Environment definition undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{definition}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ה in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no מ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ר in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ח in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ב in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ה in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no א in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ו in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ק in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ל in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no י in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ד in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no י in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ה in font [lmroman10-bold]:mapping=tex-text;!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+Missing character: There is no מ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no מ in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ד in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no י in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no א in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ק in font nullfont!
+Missing character: There is no ט in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--6
+[]
+ []
+
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 1--6
+\TU/lmr/bx/n/10 המרחב
+ []
+
+
+Overfull \hbox (22.4pt too wide) in paragraph at lines 1--6
+\TU/lmr/bx/n/10 האוקלידי
+ []
+
+
+Overfull \hbox (6.63pt too wide) in paragraph at lines 1--6
+\TU/lmr/bx/n/10 ה-
+ []
+
+
+Overfull \hbox (6.38885pt too wide) in paragraph at lines 1--6
+\OT1/cmr/bx/n/10 n$
+ []
+
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 1--6
+\TU/lmr/bx/n/10 ממדי
+ []
+
+! Undefined control sequence.
+l.7 ^^I\bR
+          ^n:=\qty{x=\qty(x_1,\dots,x_n)\middle|x_i\in\bR,\,\forall i=1,\dot...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7 ^^I\bR^n:=\qty
+                  {x=\qty(x_1,\dots,x_n)\middle|x_i\in\bR,\,\forall i=1,\dot...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7 ^^I\bR^n:=\qty{x=\qty
+                         (x_1,\dots,x_n)\middle|x_i\in\bR,\,\forall i=1,\dot...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 ^^I\bR^n:=\qty{x=\qty(x_1,\dots,x_n)\middle
+                                               |x_i\in\bR,\,\forall i=1,\dot...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \middle.
+l.7 ^^I\bR^n:=\qty{x=\qty(x_1,\dots,x_n)\middle|
+                                                x_i\in\bR,\,\forall i=1,\dot...
+I'm ignoring a \middle that had no matching \left.
+
+! Undefined control sequence.
+l.7 ...\qty{x=\qty(x_1,\dots,x_n)\middle|x_i\in\bR
+                                                  ,\,\forall i=1,\dots,n}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra }, or forgotten $.
+l.7 ..._n)\middle|x_i\in\bR,\,\forall i=1,\dots,n}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Overfull \hbox (172.12103pt too wide) detected at line 8
+[] \OT1/cmr/m/n/10 := []\OML/cmm/m/it/10 x[] \OMS/cmsy/m/n/10 2\OML/cmm/m/it/10
+ ;  \OMS/cmsy/m/n/10 8\OML/cmm/m/it/10 i \OT1/cmr/m/n/10 = 1\OML/cmm/m/it/10 ; 
+[] ; n
+ []
+
+Missing character: There is no מ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ש in font nullfont!
+Missing character: There is no ד in font nullfont!
+Missing character: There is no ה in font nullfont!
+! Undefined control sequence.
+<recently read> \bR 
+                    
+l.9 מעל השדה $\bR
+                 $, וביחס לפעולות החיבור והכפל בסקלר,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no ס in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no פ in font nullfont!
+Missing character: There is no ע in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ת in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no ח in font nullfont!
+Missing character: There is no י in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no ו in font nullfont!
+Missing character: There is no ה in font nullfont!
+Missing character: There is no כ in font nullfont!
+Missing character: There is no פ in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ב in font nullfont!
+Missing character: There is no ס in font nullfont!
+Missing character: There is no ק in font nullfont!
+Missing character: There is no ל in font nullfont!
+Missing character: There is no ר in font nullfont!
+Missing character: There is no , in font nullfont!
+! Undefined control sequence.
+l.11 ^^Ix+y=\qty
+                (x_1+y_1,\dots,x_n+y_n),\quad \alpha x=\qty(\alpha x_1,\dots...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.11 ...x_1+y_1,\dots,x_n+y_n),\quad \alpha x=\qty
+                                                  (\alpha x_1,\dots,\alpha x...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (212.89333pt too wide) detected at line 12
+\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = (\OML
+/cmm/m/it/10 x[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 y[]; [] ; x[] \OT1/cmr/m/n/
+10 + \OML/cmm/m/it/10 y[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;  ^^Kx \OT1/cmr/m/n
+/10 = (\OML/cmm/m/it/10 ^^Kx[]; [] ; ^^Kx[]\OT1/cmr/m/n/10 )
+ []
+
+Missing character: There is no ל in font nullfont!
+Missing character: There is no כ in font nullfont!
+Missing character: There is no ל in font nullfont!
+! Undefined control sequence.
+l.13 לכל $x,y\in\bR
+                   ^n$ ו-$\alpha\in \bR$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ו in font nullfont!
+Missing character: There is no - in font nullfont!
+! Undefined control sequence.
+l.13 לכל $x,y\in\bR^n$ ו-$\alpha\in \bR
+                                       $.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{definition}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{definition}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./chapter1.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 32 strings out of 410379
+ 561 string characters out of 5787645
+ 1911416 words of memory out of 5000000
+ 21446 multiletter control sequences out of 15000+600000
+ 559004 words of font info for 40 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 20i,3n,19p,121b,117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
