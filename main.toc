@@ -1,5 +1,12 @@
 \xpginauxfiletrue 
 \selectlanguage *{hebrew}
-\contentsline {chapter}{\numberline {1}טופולוגיה}{1}{}%
-\contentsline {section}{\numberline {1.1}תזכורות מההרצאה}{1}{}%
-\contentsline {subsection}{\numberline {1.1.1}מבנים על המרחב האוקלידי}{1}{}%
+\contentsline {chapter}{\numberline {1}עקומים ומשטחים ריבועיים}{1}{}%
+\contentsline {section}{\numberline {1.1}עקומים ריבועיים}{1}{}%
+\contentsline {section}{\numberline {1.2}משטחים ריבועיים}{4}{}%
+\contentsline {section}{\numberline {1.3}תרגיל - עקומים ריבועיים}{8}{}%
+\contentsline {paragraph}{פתרון.}{8}{}%
+\contentsline {section}{\numberline {1.4}תרגיל - הצגות פרמטריות}{10}{}%
+\contentsline {paragraph}{פתרון.}{11}{}%
+\contentsline {chapter}{\numberline {2}טופולוגיה}{13}{}%
+\contentsline {section}{\numberline {2.1}תזכורות מההרצאה}{13}{}%
+\contentsline {subsection}{\numberline {2.1.1}מבנים על המרחב האוקלידי}{13}{}%

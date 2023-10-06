@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9.24) (preloaded format=xelatex 2023.9.30)  30 SEP 2023 21:17
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9.24) (preloaded format=xelatex 2023.9.30)  3 OCT 2023 17:13
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -6,8 +6,8 @@ entering extended mode
 (main.tex (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/base\book.c
 ls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
-File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
 \c@chapter=\count182
@@ -780,7 +780,175 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 544.
 \optype@=\count315
 \x@count=\count316
 \maxXLscripts@=\dimen266
-)) (preamble/settings.tex
+)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count317
+\calc@Bcount=\count318
+\calc@Adimen=\dimen267
+\calc@Bdimen=\dimen268
+\calc@Askip=\skip67
+\calc@Bskip=\skip68
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count319
+\calc@Cskip=\skip69
+) (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen269
+\ESO@tempdimb=\dimen270
+)
+\AM@pagewidth=\dimen271
+\AM@pageheight=\dimen272
+\AM@fboxrule=\dimen273
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\ppxetex.def
+File: ppxetex.def 2022/12/19 v0.5x Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count320
+\AM@pagebox=\box76
+\AM@global@opts=\toks44
+\AM@pagecnt=\count321
+\AM@toc@title=\toks45
+\AM@lof@heading=\toks46
+\c@AM@survey=\count322
+\AM@templatesizebox=\box77
+)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.r
+evision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.c
+ode.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsco
+re.code.tex
+\t@pgfplots@toka=\toks47
+\t@pgfplots@tokb=\toks48
+\t@pgfplots@tokc=\toks49
+\pgfplots@tmpa=\dimen274
+\c@pgfplots@coordindex=\count323
+\c@pgfplots@scanlineindex=\count324
+
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplo
+tssysgeneric.code.tex))
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfpl
+otslibrary.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcomp
+atib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks50
+\t@pgf@tokb=\toks51
+\t@pgf@tokc=\toks52
+
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcomp
+atib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsutil.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsliststructure.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsliststructureext.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count325
+)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsmatrix.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\p
+gfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count326
+\t@pgfplotstable@a=\toks53
+)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsdeque.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsbinary.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsbinary.data.code.tex))
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsutil.verb.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfli
+brarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count327
+
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
+rarypgfplots.surfshading.pgfsys-xetex.def
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
+rarypgfplots.surfshading.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count328
+))))
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otscolormap.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otscolor.code.tex))
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsst
+ackedplots.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotspl
+othandlers.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsme
+shplothandler.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsme
+shplotimage.code.tex)))
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.s
+caling.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsco
+ordprocessing.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.e
+rrorbars.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.m
+arkers.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsti
+cks.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.p
+aths.code.tex)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+ledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen275
+\pgfdecoratedremainingdistance=\dimen276
+\pgfdecoratedinputsegmentcompleteddistance=\dimen277
+\pgfdecoratedinputsegmentremainingdistance=\dimen278
+\pgf@decorate@distancetomove=\dimen279
+\pgf@decorate@repeatstate=\count329
+\pgfdecorationsegmentamplitude=\dimen280
+\pgfdecorationsegmentlength=\dimen281
+)
+\tikz@lib@dec@box=\box78
+)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
+ations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
+ations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzl
+ibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count330
+\pgfplots@xmin@reg=\dimen282
+\pgfplots@xmax@reg=\dimen283
+\pgfplots@ymin@reg=\dimen284
+\pgfplots@ymax@reg=\dimen285
+\pgfplots@zmin@reg=\dimen286
+\pgfplots@zmax@reg=\dimen287
+)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))) (preamble/settings.tex
 (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-heb
 rew.ldf
 File: gloss-hebrew.ldf polyglossia: module for Hebrew
@@ -816,19 +984,19 @@ etting in plain TeX and LaTeX
 ****************************************************
 (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks44
-\@bidi@emptytoks=\toks45
-\bidi@poscount=\count317
-\bidi@tempcountb=\count318
-\bidi@temptoksa=\toks46
-\bidi@temptoksb=\toks47
-\bidi@dummies=\count319
-\bidi@are@these@correct=\toks48
-\bidi@toks@lista=\toks49
-\bidi@toks@listb=\toks50
-\bidi@stack@length=\count320
-\bidi@empty@stack=\toks51
-\bidi@looprepeat@depth=\count321
+\@bidi@envbody=\toks54
+\@bidi@emptytoks=\toks55
+\bidi@poscount=\count331
+\bidi@tempcountb=\count332
+\bidi@temptoksa=\toks56
+\bidi@temptoksb=\toks57
+\bidi@dummies=\count333
+\bidi@are@these@correct=\toks58
+\bidi@toks@lista=\toks59
+\bidi@toks@listb=\toks60
+\bidi@stack@length=\count334
+\bidi@empty@stack=\toks61
+\bidi@looprepeat@depth=\count335
 )
 (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
@@ -853,7 +1021,7 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count322
+\c@abspage=\count336
 Package zref Info: New property: abspage on input line 67.
 )
 \@bidi@copyins@=\insert252
@@ -862,15 +1030,15 @@ Package zref Info: New property: abspage on input line 67.
 di.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks52
-\bidi@column@check@number=\count323
+\bidi@n@everypar=\toks62
+\bidi@column@check@number=\count337
 
 (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\footnote-xetex
 -bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count324
-\footdir@toks=\toks53
+\c@footdir@label=\count338
+\footdir@toks=\toks63
 )
 (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\book-xetex-bid
 i.def
@@ -915,6 +1083,16 @@ kage for XeTeX engine
 File: fancyhdr-xetex-bidi.def 2018/02/15 v0.7 bidi adaptations for fancyhdr pac
 kage for XeTeX engine
 )
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\eso-pic-xetex-
+bidi.def
+File: eso-pic-xetex-bidi.def 2022/02/18 v0.4 bidi adaptations for eso-pic packa
+ge for XeTeX engine
+)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\pdfpages-xetex
+-bidi.def
+File: pdfpages-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for pdfpages pac
+kage for XeTeX engine
+)
 (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\pgfcorescopes.
 code-xetex-bidi.def
 File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
@@ -935,7 +1113,7 @@ etex-bidi.def
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count325
+\bidi@digits=\count339
 \bidi@digits@charclass=\XeTeXcharclass2
 \bidi@sepmark@charclass=\XeTeXcharclass3
 )
@@ -946,17 +1124,17 @@ m hebcal.sty in Babel)
 
 (C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\cal-util.
 def
-\c@tmpA=\count326
-\c@tmpB=\count327
-\c@tmpC=\count328
-\c@tmpD=\count329
-\c@tmpE=\count330
-\c@tmpF=\count331
+\c@tmpA=\count340
+\c@tmpB=\count341
+\c@tmpC=\count342
+\c@tmpD=\count343
+\c@tmpE=\count344
+\c@tmpF=\count345
 )
-\hebrewday=\count332
-\hebrewmonth=\count333
-\hebrewyear=\count334
-\@common=\count335
+\hebrewday=\count346
+\hebrewmonth=\count347
+\hebrewyear=\count348
+\@common=\count349
 )
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -1124,11 +1302,11 @@ Package fontspec Info: Font family 'IBMPlexSansHebrew(0)' created for font
 (fontspec)             Sans Hebrew/BI/OT:script=hebr;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-\c@theorem=\count336
-\c@ttlp@side=\count337
-\ttlp@side=\count338
+\c@theorem=\count350
+\c@ttlp@side=\count351
+\ttlp@side=\count352
 ) (macros/custom_macros.tex)
-No file tikz/main-figure0.aux.
+No file figures/main-figure3.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
@@ -1194,27 +1372,308 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/options}  =>  {variant=newzealand}.
 LaTeX Info: Command `\dddot' is already robust on input line 10.
 LaTeX Info: Command `\ddddot' is already robust on input line 10.
-(preamble/titlepage.tex
-\openout4 = `tikz/main-figure0.dpth'.
+
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.s
+ty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-n
+ometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+))
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
+
+No file figures/main-figure3.toc.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+(chapters/chapter1.tex
+פרק 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+(C:\Users\rankiri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+LaTeX Font Warning: Font shape `TU/IBMPlexSansHebrew(0)/m/sc' undefined
+(Font)              using `TU/IBMPlexSansHebrew(0)/m/n' instead on input line 6
+2.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 
-! Package pgfkeys Error: I do not know the key '/tikz/tikz/external/export', to
- which you passed 'false', and I am going to ignore it. Perhaps you misspelled 
-it.
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]\TU/IBMPlexSansHebrew(0)/m/sc/10.95 את תפקידי הצירים. המשוואה המתארת את היפרב
+ולה זו[]
+ []
 
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...icture,overlay, tikz/external/export=false]
-                                                   
+
+Underfull \hbox (badness 1783) in paragraph at lines 112--113
+[][]\TU/IBMPlexSansHebrew(0)/m/sc/10.95 קיימת צורה נוספת להיפרבולה המסובבת בזוו
+ית $[]$, ונתונה על ידי[]
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+\openout4 = `figures/main-figure3.dpth'.
+
+[3
+
+]
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+
+Overfull \hbox (6.18166pt too wide) in paragraph at lines 281--282
+[]\TU/IBMPlexSansHebrew(0)/m/sc/10.95 אחת מהצורות עלולה להופיע בצורה מסובבת, מו
+זזת או משוקפת. כך למשל, המשוואה: []
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (chapters/chapter2.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+פרק 2.
+
+Overfull \hbox (1.31287pt too wide) in paragraph at lines 77--78
+[][]\TU/IBMPlexSansHebrew(0)/m/sc/10.95 שימו לב שכל נורמה מגדירה באופן מידי מטר
+יקה המושרית ממנה על פי $[] [] \LMP2/mtt/m/n/10.95 D$[]
+ []
+
+
+Overfull \hbox (6.70395pt too wide) in paragraph at lines 77--78
+[]$[]$\TU/IBMPlexSansHebrew(0)/m/sc/10.95 . הכיוון ההפוך אינו בהכרח נכון, וקיימ
+ות מטריקות שאינן מושרות מאף מטריקה[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+LaTeX Font Warning: Font shape `TU/IBMPlexSansHebrew(0)/m/it' undefined
+(Font)              using `TU/IBMPlexSansHebrew(0)/m/n' instead on input line 7
+8.
+
+Overfull \hbox (0.94249pt too wide) in paragraph at lines 79--80
+[][][][]\TU/IBMPlexSansHebrew(0)/b/n/10.95 טענה 2.1.7. [][][]\TU/IBMPlexSansHeb
+rew(0)/m/it/10.95 יהיו $[][] \LMP1/mtt/m/it/10.95 ; [][]$ \TU/IBMPlexSansHebrew
+(0)/m/it/10.95 נורמות מעל $\U/msb/m/n/10.95 R[]$\TU/IBMPlexSansHebrew(0)/m/it/1
+0.95 . אזי, קיימים קבועים $\LMP1/mtt/m/it/10.95 c[]; C[]$ \TU/IBMPlexSansHebrew
+(0)/m/it/10.95 חיוביים,[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {en-US}
+>  {latex/bcp47-language}  =>  {en}
+>  {latex/bcp47-region}  =>  {US}
+>  {latex/bcp47-script}  =>  {Latn}
+>  {latex/bcp47-variant}  =>  {}
+>  {latex/bcp47-extension-t}  =>  {}
+>  {latex/bcp47-extension-u}  =>  {}
+>  {latex/bcp47-extension-x}  =>  {}
+>  {latex/bcp47-casing}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/DefineCommandsCmd}  =>  {use_none:n}
+>  {hebrew/script}  =>  {Hebrew}
+>  {hebrew/lcscript}  =>  {hebrew}
+>  {hebrew/scripttag}  =>  {hebr}
+>  {hebrew/language}  =>  {Hebrew}
+>  {hebrew/langtag}  =>  {IWR}
+>  {hebrew/bcp47}  =>  {he}
+>  {hebrew/bcp47-language}  =>  {hr}
+>  {hebrew/bcp47-region}  =>  {HE}
+>  {hebrew/bcp47-script}  =>  {Hebr}
+>  {hebrew/bcp47-variant}  =>  {}
+>  {hebrew/bcp47-extension-t}  =>  {}
+>  {hebrew/bcp47-extension-u}  =>  {nu-latn}
+>  {hebrew/bcp47-extension-x}  =>  {}
+>  {hebrew/bcp47-casing}  =>  {}
+>  {hebrew/hyphennames}  =>  {nohyphenation}
+>  {hebrew/direction}  =>  {RL}
+>  {hebrew/hyphenmins}  =>  {2,3}
+>  {hebrew/frenchspacing}  =>  {false}
+>  {hebrew/indentfirst}  =>  {false}
+>  {hebrew/fontsetup}  =>  {true}
+>  {hebrew/envname}  =>  {hebrew}
+>  {hebrew/babelname}  =>  {hebrew}
+>  {hebrew/localnumeral}  =>  {hebrewnumerals}
+>  {hebrew/Localnumeral}  =>  {hebrewnumerals}
+>  {hebrew/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}
+>  {english/script}  =>  {latin}
+>  {english/lcscript}  =>  {latin}
+>  {english/scripttag}  =>  {}
+>  {english/language}  =>  {English}
+>  {english/langtag}  =>  {ENG}
+>  {english/bcp47}  =>  {en-US}
+>  {english/bcp47-language}  =>  {en}
+>  {english/bcp47-region}  =>  {US}
+>  {english/bcp47-script}  =>  {Latn}
+>  {english/bcp47-variant}  =>  {}
+>  {english/bcp47-extension-t}  =>  {}
+>  {english/bcp47-extension-u}  =>  {}
+>  {english/bcp47-extension-x}  =>  {}
+>  {english/bcp47-casing}  =>  {}
+>  {english/hyphennames}  =>  {english,american,usenglish,USenglish}
+>  {english/direction}  =>  {LR}
+>  {english/hyphenmins}  =>  {2,3}
+>  {english/frenchspacing}  =>  {false}
+>  {english/indentfirst}  =>  {false}
+>  {english/fontsetup}  =>  {true}
+>  {english/envname}  =>  {english}
+>  {english/babelname}  =>  {american}
+>  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {english/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}.
+The property list \__xpg_alias contains the pairs (without outer braces):
+>  {latex/target}  =>  {latex}
+>  {hebrew/target}  =>  {hebrew}
+>  {he/target}  =>  {hebrew}
+>  {english/target}  =>  {english}
+>  {en/target}  =>  {english}
+>  {en-AU/target}  =>  {english}
+>  {en-AU/variant}  =>  {australian}
+>  {en-AU/options}  =>  {variant=australian}
+>  {en-CA/target}  =>  {english}
+>  {en-CA/variant}  =>  {canadian}
+>  {en-CA/options}  =>  {variant=canadian}
+>  {en-GB/target}  =>  {english}
+>  {en-GB/variant}  =>  {british}
+>  {en-GB/options}  =>  {variant=british}
+>  {en-NZ/target}  =>  {english}
+>  {en-NZ/variant}  =>  {newzealand}
+>  {en-NZ/options}  =>  {variant=newzealand}
+>  {en-US/target}  =>  {english}
+>  {en-US/variant}  =>  {us}
+>  {en-US/options}  =>  {variant=us}
+>  {american/target}  =>  {english}
+>  {american/variant}  =>  {us}
+>  {american/options}  =>  {variant=us}
+>  {australian/target}  =>  {english}
+>  {australian/variant}  =>  {australian}
+>  {australian/options}  =>  {variant=australian}
+>  {british/target}  =>  {english}
+>  {british/variant}  =>  {british}
+>  {british/options}  =>  {variant=british}
+>  {canadian/target}  =>  {english}
+>  {canadian/variant}  =>  {canadian}
+>  {canadian/options}  =>  {variant=canadian}
+>  {newzealand/target}  =>  {english}
+>  {newzealand/variant}  =>  {newzealand}
+>  {newzealand/options}  =>  {variant=newzealand}.
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+ ) 
 Here is how much of TeX's memory you used:
- 20359 strings out of 410379
- 438156 string characters out of 5787645
- 1911416 words of memory out of 5000000
- 41328 multiletter control sequences out of 15000+600000
- 559688 words of font info for 51 fonts, out of 8000000 for 9000
+ 31872 strings out of 410379
+ 808210 string characters out of 5787645
+ 1924416 words of memory out of 5000000
+ 52640 multiletter control sequences out of 15000+600000
+ 615633 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,3n,106p,1040b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,13n,106p,1040b,2363s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-No pages of output.
+Output written on figures/main-figure3.pdf (1 page).

@@ -1,0 +1,108 @@
+\chapter{טופולוגיה}
+\section{תזכורות מההרצאה}
+\subsection{מבנים על המרחב האוקלידי}
+\begin{definition}
+\textbf{המרחב האוקלידי ה-$\mathbf{n}$ ממדי} הוא המרחב הוקטורי:
+\[
+	\bR^n:=\qty{x=\qty(x_1,\dots,x_n)\middle|x_i\in\bR,\,\forall i=1,\dots,n}
+\]
+מעל השדה $\bR$, וביחס לפעולות החיבור והכפל בסקלר,
+\[
+	x+y=\qty(x_1+y_1,\dots,x_n+y_n),\quad \alpha x=\qty(\alpha x_1,\dots,\alpha x_n)	
+\]
+לכל $x,y\in\bR^n$ ו-$\alpha\in \bR$.
+\end{definition}
+במהלך הקורס, נידרש לדון בפונקציות מהצורה $f:\bR^n\to \bR^m$, וכהמשך טבעי לקורסי האינפי הקודמים היינו רוצים לדון במונחים כגון גבול, מרחק, רציפות, נגזרת, אינטגרל ועוד. על מנת לעשות זאת, לא די להתייחס אל המרחב האוקלידי כמרחב וקטורי, ונרצה להגדיר מעליו מבנים נוספים איתם נגדיר אורך, מרחק וזווית.
+\begin{definition}
+תהא $X$ קבוצה. פונקציה ${\rm d}:X\times X\to\bR$ מכונה \textbf{מטריקה} על $X$, אם היא מקיימת את התכונות הבאות,
+\begin{enumerate}
+\item \textbf{חיוביות}. ${\rm d}\qty(x,y)\geq 0$ לכל $x,y\in X$, ושוויון אם ורק אם $x=y$.
+\item \textbf{סימטריות}. ${\rm d}\qty(x,y)={\rm d}\qty(y,x)$ לכל $x,y\in X$.
+\item \textbf{אי-שוויון המשולש}. ${\rm d}\qty(x,z)\leq{\rm d}\qty(x,y)+{\rm d}\qty(y,z)$ לכל $x,y,z\in X$.
+\end{enumerate}
+\end{definition}
+פונקציית המטריקה מהווה הכללה טבעית של מונח המרחק בין נקודות של קבוצה.
+\begin{example}
+מעל כל קבוצה לא ריקה $X$, ניתן להגדיר את \textbf{המטריקה הדיסקרטית}, הנתונה על פי הנוסחה
+\[
+	{\rm d}_{{\rm disc}}\qty(x,y)=\left\{\begin{array}{cc}
+	1, & x\neq y \\ 0, & x=y
+	\end{array}\right.
+\]
+לכל $x,y\in X$. לא קשה להשתכנע כי אכן מדובר במטריקה (אם כי לא מעניינת במיוחד).
+\end{example}
+\begin{example}
+מעל המרחב האוקלידי $\bR^n$ ניתן להגדיר משפחה גדולה של \textbf{מטריקות-$\mathbf{p}$} לכל $p\geq 1$ על ידי הנוסחה
+\[
+	{\rm d}_p\qty(x,y):=\qty(\sum\limits_{i=1}^n\qty|x_i-y_i|^p)^{\frac{1}{p}}.
+\]
+ניתן להוכיח שאכן מדובר במטריקות, כאשר המפורסמות שבהן מתקבלות עבור $p=1,p=2$ ועבור $p\to\infty$.
+\begin{enumerate}
+\item עבור $p=2$ מתקבלת \textbf{המטריקה האוקלידית הסטנדרטית} והיא נתונה על ידי
+\[
+	{\rm d}_2\qty(x,y):=\sqrt{(x_1-y_1)^2+\dots+(x_n-y_n)^2}.
+\]
+\item עבור $p=1$ מתקבלת \textbf{מטריקת מנהטן} והיא נתונה על ידי
+\[
+	{\rm d}_1\qty(x,y):=\qty|x_1-y_1|+\dots+\qty|x_n-y_n|.
+\]
+\item לכל $x,y\in\bR^n$, ניתן להראות שכאשר $p\to\infty$ מתקבלת נוסחה למטריקה נוספת הזוכה לשם \textbf{מטריקת הסופרמום/המקסימום} והיא נתונה על ידי
+\[
+	{\rm d}_{\infty}\qty(x,y):=\max\limits_{i=1,\dots,n}\qty|x_i-y_i|.
+\]
+\end{enumerate}
+\end{example}
+כאשר הקבוצה שלנו בעלת מבנה נוסף של מרחב וקטורי, ניתן להגדיר מעליה הכללה של מונח ה"אורך" של וקטור.
+\begin{definition}
+יהא $V$ מרחב וקטורי מעל $\bR$ או $\bC$. פונקציה $\norm{\cdot}:V\to \bR$ מכונה \textbf{נורמה}, אם היא מקיימת את התכונות הבאות,
+\begin{enumerate}
+\item \textbf{חיוביות}. $\norm{v}\geq 0$ לכל $v\in V$, ושוויון מתקיים אם ורק אם $v=0$.
+\item  \textbf{הומוגניות}. $\norm{\alpha v}=\qty|\alpha|\norm{v}$ לכל $v\in V,\alpha\in\bR$ (או בהתאמה, $\alpha\in\bC$).
+\item \textbf{אי-שוויון המשולש}. $\norm{v+u}\leq\norm{v}+\norm{u}$ לכל $v,u\in V$.
+\end{enumerate}
+\end{definition}
+\begin{example}
+עבור $p=1,2$ ועבור $p\to\infty$, מגדירים את הנורמות:
+\[
+	\norm{x}_2:=\sqrt{x_1^2+\dots+x_n^2},
+\]
+\[
+	\norm{x}_1:=\qty|x_1|+\dots+\qty|x_n|,
+\]
+\[
+	\norm{x}_{\infty}:=\max\limits_{i=1,\dots,n}\qty|x_i|.
+\]
+יתרה מכך, ראינו בהרצאה כי הנורמות הללו שקולות.
+\end{example}
+שימו לב שכל נורמה מגדירה באופן מידי מטריקה המושרית ממנה על פי ${\rm d}\qty(x,y)=\norm{x-y}$. הכיוון ההפוך אינו בהכרח נכון, וקיימות מטריקות שאינן מושרות מאף מטריקה (אך לא נדון בכך בקורס). בהרצאה הוכחנו מספר מקרים פרטיים של הטענה הבאה, שכדאי להכיר.
+\begin{claim}
+יהיו $\norm{\cdot}_{\alpha},\norm{\cdot}_{\beta}$ נורמות מעל $\bR^n$. אזי, קיימים קבועים $c_{\alpha,\beta},C_{\alpha,\beta}$ חיוביים, שעבורם לכל $x\in\bR^n$:
+\[
+	c_{\alpha,\beta}\norm{x}_{\alpha}\leq\norm{x}_{\beta}\leq C_{\alpha,\beta}\norm{x}_{\alpha}.
+\]
+\end{claim}
+תוצאה זו מבטיחה שבהמשך, כל התכונות הקשורות בגבולות ונגזרות יהיו בלתי תלויות בנורמה שבה נבחר, מה שמאפשר עקביות וגמישות בעבודה מעל המרחבים הללו.\par 
+מעבר למרחקים, אנחנו נוהגים לדון ב"כיוונים" במרחב האוקלידי. ב-$\bR^2,\bR^3$ אף נהוג לדבר על זוויות, אנכים ועוד. בכך יטפל המבנה הבא.
+\begin{definition}
+יהא $V$ מרחב וקטורי מעל $\bR$. \textbf{מכפלה פנימית} על $V$ היא פונקציה $\langle\cdot,\cdot\rangle:V\times V\to \bR$ המקיימת את התכונות הבאות,
+\begin{enumerate}
+\item \textbf{חיוביות}. $\langle v,v\rangle\geq 0$ לכל $v\in V$, ושוויון מתקיים אם ורק אם $v=0$.
+\item \textbf{סימטריות}. $\langle v,u\rangle=\langle u,v\rangle$ לכל $u,v\in V$.
+\item \textbf{ליניאריות ברכיב הראשון}. $\langle \alpha v_1+v_2,u\rangle=\alpha \langle v_1,u\rangle+\langle v_2,u\rangle$ לכל $v_1,v_2\in V$ ו-$\alpha\in\bR$.
+\end{enumerate}
+\end{definition}
+ראשית, כדאי לזהות שליניאריות ברכיב הראשון וסימטריות גוררת ליניאריות גם ברכיב השני (אך נהוג לציין זאת בנפרד, היות וקיימת גם מכפלה חצי ליניארית מעל המרוכבים). כל מכפלה פנימית משרה מבנה של נורמה על המרחב הוקטורי על ידי $\norm{\cdot}:=\sqrt{\langle v,v\rangle}$ והעובדה שאכן מתקבלת נורמה מנוסחה זו נובעת מהטענה החשובה הבאה.
+\begin{claim}[אי שוויון קושי-שוורץ]
+יהא $V$ מרחב מכפלה פנימית ותהא $\langle\cdot,\cdot\rangle$ מכפלה פנימית ונסמן ב-$\norm{\cdot}$ את הנורמה המושרית. אזי, לכל $v,u\in V$, מתקיים:
+\[
+	\qty|\langle u,v\rangle|\leq\norm{u}\norm{v}.
+\]
+\end{claim}
+תוצאה זו גם מראה לנו שלכל $v,u\in V$, הגודל $\frac{\langle v,u\rangle}{\norm{u}\norm{v}}$ הוא מספר השייך לקטע $\qty[-1,1]$. עובדה זו מאפשרת לנו להגדיר \textbf{זווית} בין וקטורים.
+\begin{definition}
+יהא $V$ מרחב מכפלה פנימית ויהיו $v,u\in V$. \textbf{הזווית} (החדה) בין הוקטורים מוגדרת להיות הזווית $\theta\in\qty[0,\pi]$ (היחידה) שעבורה:
+\[
+	\langle v,u\rangle=\cos{\qty(\theta)}\norm{v}\norm{u}.
+\]
+בפרט, אם $\langle v,u\rangle=0$, אומרים כי הוקטורים \textbf{מאונכים} ומסמנים $v\perp u$.
+\end{definition}
